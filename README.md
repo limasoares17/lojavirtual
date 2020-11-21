@@ -1,2 +1,0 @@
-# lojavirtual
-É uma loja 
